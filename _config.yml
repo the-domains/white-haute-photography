@@ -1,0 +1,28 @@
+name: White Haute Photography
+favicon: null
+layout_spectrum: 0.4346019292715937
+typography_spectrum: 0.47270474024116993
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8053011407610029
+  lightness: 0.3394343829713762
+  saturation: 0.6611408607568592
+  rhythmicContrast: 0.9745241801720113
+purpose: []
