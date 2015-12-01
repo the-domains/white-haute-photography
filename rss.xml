@@ -4,21 +4,21 @@
         <description><![CDATA[White Haute Photography]]></description>
         <link>https://thegrid.ai/white-haute-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 23:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 00:11:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/white-haute-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About White Haute Photography]]></title>
+            <description><![CDATA[<article><h1>About White Haute Photography</h1><p>Welcome to White Haute Photography</p></article>]]></description>
+            <link>https://thegrid.ai/white-haute-photography/about-white-haute-photography/index.html</link>
+            <guid isPermaLink="false">bfa8f1fd-318c-409c-a329-d57ed50c8c6b</guid>
+            <pubDate>Tue, 01 Dec 2015 00:11:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[San Diego Style Weddings published shoot]]></title>
             <description><![CDATA[<article><h1>San Diego Style Weddings published shoot</h1><p>Flash back to our amazing 2011 photo shoot with San Diego Style Weddings</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c7b4d50-4fca-4b8e-92df-33dc417dbf5c.jpg"></article>]]></description>
             <link>https://thegrid.ai/white-haute-photography/san-diego-style-weddings-published-shoot/index.html</link>
             <guid isPermaLink="false">f27d41cc-eaa3-4b23-9c59-ef3e4a83a6d3</guid>
             <pubDate>Mon, 30 Nov 2015 23:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About White Haute Photography]]></title>
-            <description><![CDATA[<article><h1>About White Haute Photography</h1><p>Welcome to White Haute Photography</p></article>]]></description>
-            <link>https://thegrid.ai/white-haute-photography/about-white-haute-photography/index.html</link>
-            <guid isPermaLink="false">bfa8f1fd-318c-409c-a329-d57ed50c8c6b</guid>
-            <pubDate>Mon, 30 Nov 2015 23:40:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
