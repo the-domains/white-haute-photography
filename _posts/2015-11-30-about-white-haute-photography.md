@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-30T23:40:28.645Z'
-dateModified: '2015-11-30T23:36:23.762Z'
+datePublished: '2015-12-01T00:11:21.176Z'
+dateModified: '2015-12-01T00:09:58.834Z'
 title: About White Haute Photography
 author: []
 authors: []
